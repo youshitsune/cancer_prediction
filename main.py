@@ -1,5 +1,4 @@
 from sklearn import linear_model
-from sklearn.metrics import mean_squared_error, r2_score
 import csv
 import numpy as np
 from micromlgen import port
